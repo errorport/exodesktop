@@ -1,0 +1,9 @@
+[submodule "exodwm"]
+	path = exodwm
+	url = git@github.com:errorport/exodwm.git
+[submodule "exost"]
+	path = exost
+	url = git@github.com:errorport/exost.git
+[submodule "exostat"]
+	path = exostat
+	url = git@github.com:errorport/exostat.git
